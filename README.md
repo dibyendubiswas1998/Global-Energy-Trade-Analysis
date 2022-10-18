@@ -21,7 +21,22 @@ Create Power BI dashboard as well as reports.
 Do your own research and come up with your findings.
 
 
-### Data Link: 
+### About Data:
+As we have seen data earlier, in our **Global Energy Trade** dataset, we have
+approx. 1.25 million of records with 7 features. Features are distributed as 3
+continuous feature and 4 categorical features. The dataset is given in the
+form of comma separated values (.csv) format.<br>
+
+  **country_or_area:** showing all the country in the world.<br>
+  **commodity_transaction:** showing the commodity or products with
+  transaction means imports, exports, production, consumptions, etc.<br>
+  **year:** showing the year from 1990 to 2014.<br>
+  **unit:** showing the unit (e.g., terajoules, kilowatt, etc.)<br>
+  **quantity:** showing the quantity.<br>
+  **quantity_footnotes:** nothing here, blanks values are there.<br>
+  **category:** showing the product category.<br>
+
+#### Source Link: 
 https://www.kaggle.com/datasets/unitednations/international-energy-statistics?select=all_energy_statistics.csv
 
 #### Solution: 
