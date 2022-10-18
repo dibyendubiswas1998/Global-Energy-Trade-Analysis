@@ -21,7 +21,8 @@ Create Power BI dashboard as well as reports.
 Do your own research and come up with your findings.
 
 
-### Data Link: https://www.kaggle.com/datasets/unitednations/international-energy-statistics?select=all_energy_statistics.csv
+### Data Link: 
+https://www.kaggle.com/datasets/unitednations/international-energy-statistics?select=all_energy_statistics.csv
 
 #### Solution: 
 Open the power bi (pbix) file
