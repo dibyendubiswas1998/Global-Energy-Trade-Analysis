@@ -1,6 +1,6 @@
 # Project Name:  Global Energy Trade Analysis
 
-## Problem Statement:
+### Problem Statement:
 One of the most unique power bi projects ideas is the Global Energy Trade
 Analysis. This project concept includes various topics concerning global energy
 exchange and production. It addresses several topics, such as the expansion of
@@ -22,3 +22,7 @@ Do your own research and come up with your findings.
 
 
 ### Data Link: https://www.kaggle.com/datasets/unitednations/international-energy-statistics?select=all_energy_statistics.csv
+
+#### Solution: 
+Open the power bi (pbix) file
+https://github.com/dibyendubiswas1998/Global-Energy-Trade-Analysis/tree/main/Power%20BI%20code
