@@ -36,12 +36,9 @@ form of comma separated values (.csv) format.<br>
   **quantity_footnotes:** nothing here, blanks values are there.<br>
   **category:** showing the product category.<br>
 
-#### Source Link: 
-https://www.kaggle.com/datasets/unitednations/international-energy-statistics?select=all_energy_statistics.csv
+**Data Link:** https://www.kaggle.com/datasets/unitednations/international-energy-statistics?select=all_energy_statistics.csv <br>
+**Power BI code:** https://github.com/dibyendubiswas1998/Global-Energy-Trade-Analysis/tree/main/Power%20BI%20code <br>
 
-#### Solution: 
-Open the power bi (pbix) file
-https://github.com/dibyendubiswas1998/Global-Energy-Trade-Analysis/tree/main/Power%20BI%20code
 
 ### Conclusion:
 
