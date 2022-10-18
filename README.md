@@ -1,4 +1,4 @@
-# Project Name:  Global Energy Trade Analysis
+# Global Energy Trade Analysis
 
 ### Problem Statement:
 One of the most unique power bi projects ideas is the Global Energy Trade
