@@ -43,5 +43,6 @@ https://www.kaggle.com/datasets/unitednations/international-energy-statistics?se
 Open the power bi (pbix) file
 https://github.com/dibyendubiswas1998/Global-Energy-Trade-Analysis/tree/main/Power%20BI%20code
 
-#### Dashboard
-![dashboard](https://user-images.githubusercontent.com/67157274/196473886-b747f80d-7139-4c0a-9dff-078bab1a24f0.PNG)
+### Conclusion:
+
+
