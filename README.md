@@ -40,6 +40,3 @@ form of comma separated values (.csv) format.<br>
 **Power BI code:** https://github.com/dibyendubiswas1998/Global-Energy-Trade-Analysis/tree/main/Power%20BI%20code <br>
 
 
-### Conclusion:
-
-
