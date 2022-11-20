@@ -36,9 +36,13 @@ form of comma separated values (.csv) format.<br>
   **quantity_footnotes:** nothing here, blanks values are there.<br>
   **category:** showing the product category.<br>
 
-**Data Link:** https://www.kaggle.com/datasets/unitednations/international-energy-statistics?select=all_energy_statistics.csv <br>
-**Power BI code:** https://github.com/dibyendubiswas1998/Global-Energy-Trade-Analysis/tree/main/Power%20BI%20code <br>
-**Detailed Project Report:** https://github.com/dibyendubiswas1998/Global-Energy-Trade-Analysis/blob/main/Detail%20Project%20Report/detail%20report.pdf <br>
+**Data Link:** https://www.kaggle.com/datasets/unitednations/international-energy-statistics?select=all_energy_statistics.csv <br><br>
+
+### Power BI Code:
+**Link:** https://github.com/dibyendubiswas1998/Global-Energy-Trade-Analysis/tree/main/Power%20BI%20code <br><br>
+
+### Detailed Project Report:
+**Report Link:** https://github.com/dibyendubiswas1998/Global-Energy-Trade-Analysis/blob/main/Detail%20Project%20Report/detail%20report.pdf <br>
 
 
 
